@@ -2,7 +2,7 @@ using UnityEngine;
 using DG.Tweening;
 
 
-public class Item : MonoBehaviour
+public class Item_Animatiion : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
